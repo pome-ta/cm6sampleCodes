@@ -1,0 +1,23 @@
+{
+  "name": "cm6samplecodes",
+  "version": "0.0.0",
+  "description": "[CodeMirror](https://codemirror.net/) のサンプルコードをとにかく写経して、仕組みを理解したいリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pome-ta/cm6sampleCodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pome-ta/cm6sampleCodes/issues"
+  },
+  "homepage": "https://github.com/pome-ta/cm6sampleCodes#readme",
+  "dependencies": {
+    "codemirror": "latest"
+  }
+}
